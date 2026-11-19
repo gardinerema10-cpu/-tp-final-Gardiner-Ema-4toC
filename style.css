@@ -14,7 +14,7 @@ body {
 header, nav, main, aside, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(230, 51, 51);
+    background: rgb(53, 8, 252);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -31,7 +31,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #333;
+    color: #ffffff;
     font-weight: bold;
 }
 
