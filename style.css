@@ -8,13 +8,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #ff5607;
+    background-color: #5900ff;
 }
 
 header, nav, main, aside, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(53, 8, 252);
+    background: rgb(129, 101, 255);
     border-radius: 5px;
     box-shadow: 0 0 10px white;
 }
@@ -45,7 +45,7 @@ main {
 
 aside {
     width: calc(20% - 20px); /* Resto 20px para que no colapse por el margin-left y margin-rigth */
-    background: #269c08;
+    background: #ff6600;
 }
 
 section {
@@ -54,7 +54,7 @@ section {
 }
 
 article {
-    border-bottom: 1px solid #390894;
+    border-bottom: 1px solid #ff6600;
     padding-bottom: 10px;
     margin-bottom: 10px;
 }
