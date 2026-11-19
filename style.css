@@ -8,7 +8,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #9ac402;
+    background-color: #ff5607;
 }
 
 header, nav, main, aside, footer {
@@ -67,4 +67,4 @@ article img {
 footer {
     text-align: center;
     font-size: 0.9em;
-    color: #555;
+    color: #ffffff;
